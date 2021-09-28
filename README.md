@@ -1,0 +1,1 @@
+First Cypress Framework for automated testing
